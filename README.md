@@ -1,6 +1,6 @@
 # Live-Video-Sketching-Using-Webcam
 
-<b>Computer Vision</b> model creates a live video sketch of frames through real time web cam video. Source code is written in <b>python</b> and model is based on <b>OpenCV</b>. <b>Keras</b> and <b>Numpy</b> have been used to optimize the performance of the model and posterize frames
+<b>Computer Vision</b> model creates a live video sketch of frames through real time web cam video. Source code is written in <b>python</b> and model is based on <b>OpenCV</b>. <b>Numpy</b> have been used to optimize the performance of the model and posterize frames
 
 # Live Output:
 
