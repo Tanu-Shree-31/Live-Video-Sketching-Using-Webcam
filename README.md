@@ -3,7 +3,7 @@
 <b>Computer Vision</b> model creates a live video sketch of frames through real time web cam video. Source code is written in <b>python</b> and model is based on <b>OpenCV</b>. <b>Numpy</b> have been used to optimize the performance of the model and posterize frames
 
 # Live Output:
-
+https://user-images.githubusercontent.com/69342524/154828400-95941ff1-3fc3-47da-8ca5-988a0cd20a3a.mp4
 
 # Technologies Used:
 - Python
